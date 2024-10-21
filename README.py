@@ -100,6 +100,14 @@ elastic-beanstalk-demo/
 ├── mvnw
 └── target/                 # Contains packaged JAR after running mvn package
 
+ This basic boilerplate provides a starting point for deploying a Java (Spring Boot) application to AWS Elastic Beanstalk. Once deployed, Elastic Beanstalk will handle the provisioning of resources like EC2 instances, load balancing, and auto-scaling.
+
+
+
+
+
+
+
 
 
 
